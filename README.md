@@ -1,5 +1,3 @@
-Thank you for the clarification! Here's the **entire README.md content as one continuous block**, fully formatted and ready for **copy-pasting into GitHub** — all in one single page, without any breakouts or piecemeal sections:
-
 ---
 
 ```markdown
@@ -7,8 +5,6 @@ Thank you for the clarification! Here's the **entire README.md content as one co
 
 A Streamlit-powered AI coding assistant built using **Groq API** and **LLaMA-3** models.  
 Supports multiple tasks including code generation, explanation, debugging, and file-based analysis.
-
-![Logo](assets/logo.png)
 
 ---
 
@@ -40,7 +36,6 @@ coding-assistant-chatbot/
 
 ---
 
-## ⚙️ Run Locally
 
 ### 1. Clone the repository
 
