@@ -1,6 +1,5 @@
 ---
 
-```markdown
 # 🤖 Coding Copilot Chatbot
 
 A Streamlit-powered AI coding assistant built using **Groq API** and **LLaMA-3** models.  
