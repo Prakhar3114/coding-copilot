@@ -130,9 +130,3 @@ MIT License — open-source and free to use. Give credit if helpful!
 
 ```
 
----
-
-✅ You can now **copy everything above in one go** and **paste it into your README.md** on GitHub — it will render beautifully and include all features, setup, deploy steps, and structure in one place.
-
-Let me know when you're ready to add a preview screenshot or badges!
-```
