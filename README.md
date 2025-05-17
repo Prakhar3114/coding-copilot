@@ -102,9 +102,9 @@ GROQ_API_KEY=your-api-key-here
 
 ---
 
-## 📸 Demo Screenshot
+## Deployed Link
 
-*Coming Soon – Add your own preview image here if desired!*
+https://prakhargarg-coding-copilot.streamlit.app
 
 ---
 
